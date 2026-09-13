@@ -32,4 +32,4 @@ The game is currently played through the browser console, with JavaScript handli
 
 ## Project Status
 
-In progress — following the project steps from The Odin Project.
+Completed
